@@ -1,5 +1,5 @@
 //https://codeforces.com/contest/1921/problem/D
-/*
+/*Done
 this is really a good question
 this question can be approached as
 first we sort the both array, and we calculate the absolute difference of both

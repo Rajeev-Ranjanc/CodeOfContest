@@ -32,45 +32,7 @@ public class FirstNegaitveWindowK {
         }
         return ans;
          */
-        /*
 
-        int n = nums.length;
-        long[] firstNegativeNumbers = new long[n - k + 1];
-        int idx = 0;
-
-        Queue<Integer> q = new LinkedList<>();
-
-        int i = 0;
-        int j = 0;
-
-        while (j < n) {
-            if (nums[j] < 0) {
-                q.add(nums[j]);
-            }
-
-            if (j - i + 1 == k) { // Calculate result and Slide the window
-                if (q.isEmpty()) {
-                    firstNegativeNumbers[idx++] = 0;
-                } else {
-                    int num = q.peek();
-                    firstNegativeNumbers[idx++] = num;
-
-                    // Remove a[i] from the queue since we need to slide the window now.
-                    // But only if it was added to the queue previously
-                    if (num == nums[i]) {
-                        q.remove();
-                    }
-                }
-                i++; // Slide the window ahead
-            }
-
-            j++; // Move the window end
-        }
-
-        return firstNegativeNumbers;
-
-
-         */
         int i = 0;
         int j = 0;
         int index = 0;
