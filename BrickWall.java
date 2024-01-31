@@ -1,4 +1,5 @@
 //This was the first question of Today's (30 jan 2024) contest Div 2
+//https://codeforces.com/contest/1918/problem/A
 import java.util.Scanner;
 
 public class BrickWall {
