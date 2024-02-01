@@ -8,6 +8,7 @@ import java.util.*;
 import java.lang.*;
 
 class Adivitya
+
 {
     public static void main (String[] args) throws java.lang.Exception
     {
