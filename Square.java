@@ -1,4 +1,4 @@
-//
+//this code was the code of contest of div 3 may be 920
 import java.util.Scanner;
 
 public class Square {
