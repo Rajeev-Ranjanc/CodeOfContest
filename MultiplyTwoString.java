@@ -2,7 +2,7 @@
 
 
 /*
-Just multiply using BigINteger datatype
+Just multiply using BigInteger datatype
  */
 import java.math.BigInteger;
 
