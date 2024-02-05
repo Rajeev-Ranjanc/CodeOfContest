@@ -1,5 +1,6 @@
 //https://www.codechef.com/practice/course/arrays-strings-sorting/INTARR01/problems/DISTINCTCOL?tab=statement
 //Codechef
+//done on codechef
 import java.util.Scanner;
 public class Colors {
     public static void main(String[] args) {
