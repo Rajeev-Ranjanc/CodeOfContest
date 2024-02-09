@@ -8,7 +8,7 @@ performance of the performer & will allow to meet him if he is satisfied then wi
 import java.util.*;
 import java.lang.*;
 
-class Codechef {
+class Adivita {
     public static void main(String[] args)  {
         // your code goes here
         Scanner sc = new Scanner(System.in);
