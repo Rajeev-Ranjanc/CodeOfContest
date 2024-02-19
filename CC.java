@@ -1,3 +1,6 @@
+/*
+CC club mnnit allahabad classes
+ */
 import java.util.Scanner;
 
 public class CC {
